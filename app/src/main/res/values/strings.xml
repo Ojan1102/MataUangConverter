@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mata Uang Converter</string>
+    <string name="mata_uang_intro">Mata Uang Converter</string>
+    <string name="jumlahUang">Jumlah Uang</string>
+    <string name="hitung_usd">IDR > USD</string>
+    <string name="hitung_yen">IDR > YEN</string>
+    <string name="hitung_euro">IDR > EURO</string>
+    <string name="hasil_x">Hasil: %1$.2f</string>
+</resources>
